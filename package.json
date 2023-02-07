@@ -1,0 +1,16 @@
+{
+  "name": "panda-go-openai",
+  "version": "1.0.0",
+  "description": "OpenAI API wrapper for Panda Project.",
+  "author": "Hadrien Boyer",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^11.8.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["open-ai", "gpt", "chat"]
+}
