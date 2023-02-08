@@ -5,6 +5,7 @@
   "author": "Hadrien Boyer",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "got": "^11.8.0"
   },
   "main": "index.js",
@@ -12,5 +13,9 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["open-ai", "gpt", "chat"]
+  "keywords": [
+    "open-ai",
+    "gpt",
+    "chat"
+  ]
 }
