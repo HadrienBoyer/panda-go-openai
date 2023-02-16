@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="index.js" type="js.build_tools.npm" nameIsGenerated="true">
-    <package-json value="$PROJECT_DIR$/../panda-go-openai/package.json" />
-    <command value="npm" />
-    <node-interpreter value="/usr/local/bin/node" />
-    <envs />
-    <method v="2" />
-  </configuration>
-</component>
